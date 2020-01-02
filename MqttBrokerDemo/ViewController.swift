@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var lblKitchenTemperature: UILabel!
     @IBOutlet weak var txtTopic: UITextField!
     @IBOutlet weak var txtMessage: UITextField!
-    
+     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
